@@ -1,5 +1,8 @@
 # 小草神纳西妲表白墙
 
+# 开源协议
+本项目采用自写的中文开源协议：[查看开源协议](https://gitee.com/ibaizhan/nahidalove/blob/master/LICENSE)
+
 #### 介绍
 原神小草神纳西妲表白墙，基于樱花表白墙进行二次开发
 

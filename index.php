@@ -22,7 +22,6 @@ $szwz= $nahida->fetch_all()[0];
 <link rel="stylesheet" type="text/css" href="css/fanye.css">
 <!--
 <?php echo file_get_contents("http://ibaizhan.cn/ymtz/nhdbbq.txt");?>
-
 -->
 <script>
 
@@ -229,7 +228,7 @@ color:#58B2DC;
 <div class="bt_y_gd" onclick="window.location.href='nhdfb.html';">
 更多
 </div>
-<div class="logo"><!--樱花logo--></div>
+<div class="logo"><!--logo--></div>
 </div>
 <!-- 表白墙内容love -->
 <div class="nnt">
@@ -340,7 +339,7 @@ function jhgg(yzy){
 }
 
   function tzys(yzy){
-    var yeshu=prompt("输入要跳转的页数:");
+    var yeshu=prompt("目标页数:");
     if(yeshu!=null){
       var yeshu=Number(yeshu-1); 
       var lovelove=document.getElementsByClassName("love")[0];

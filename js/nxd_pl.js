@@ -1,6 +1,6 @@
            var stop, staticx; // eslint-disable-line no-unused-vars
 			var img = new Image();
-			img.src = "https://pan.baidu.re/view.php/a4c95331dffcf8441091db6d11ec3f65.png";
+			img.src = "https://s21.ax1x.com/2024/05/05/pkA5xaT.png";
 
 			function Sakura(x, y, s, r, fn) {
 				this.x = x;

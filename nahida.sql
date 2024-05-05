@@ -39,7 +39,7 @@ sytz varchar(255) not null comment '首页通知'
 )charset utf8;
 
 
-INSERT INTO yingzhenyu(wzbt,wztb,zzqq,zznc,bjyy,sytp,sttz,sytz) VALUES ("小草神表白墙","","3596200633","小白初梦","https://pan.baidu.re/view.php/6b397ba359b09e0749fd0df5a9975c4f.mp3
+INSERT INTO yingzhenyu(wzbt,wztb,zzqq,zznc,bjyy,sytp,sttz,sytz) VALUES ("小草神表白墙","","3596200633","小白初梦","https://cccimg.com/view.php/6b397ba359b09e0749fd0df5a9975c4f.mp3
 ","/api/bz/sjtp.php","http://ibaizhan.cn/","这里是小草神表白墙，欢迎您来表白！by：小白初梦");
 
 
